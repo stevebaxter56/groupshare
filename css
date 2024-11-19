@@ -1,0 +1,8 @@
+src/
+├── components/
+│   ├── Login.js
+│   ├── Home.js
+│   └── AddPost.js
+├── firebase.js
+├── App.js
+└── index.js
